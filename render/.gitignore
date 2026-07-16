@@ -2,3 +2,5 @@
 frames/
 # Local copy of the source ad HTML (provided as input, ~2.2MB)
 ad.html
+# Render run log
+run_all.log
